@@ -24,6 +24,7 @@ The [Talent Olympics](https://earn.superteam.fun/talent-olympics/) is designed t
 ## Escrow UI + Blink
 
 - [Escrow UI + Blink](https://github.com/trankhacvy/talent-olympics/tree/main/escrow-ui-blink) - Khac Vy
+- [Escrow UI + Blink](https://github.com/HongThaiPham/talent-olympic-escrow-ui-and-blink) - @leopham_it
 
 ## Oracle Aggregator
 
@@ -36,22 +37,28 @@ The [Talent Olympics](https://earn.superteam.fun/talent-olympics/) is designed t
 ## Create a Marketplace UI
 
 - [Markerplace UI](https://github.com/trankhacvy/talent-olympics/tree/main/marketplace-ui) - Khac Vy
+- [Markerplace UI](https://github.com/HongThaiPham/talent-olympics-marketplace-ui) - @leopham_it
 
 ## NFT Mint, Vault & Swap
 
 - [NFT Minter](https://github.com/trankhacvy/talent-olympics/tree/main/nft-minter) - Khac Vy
+- [NFT Mint-vault-swap](https://github.com/HongThaiPham/talent-olympics-nft-mint-vault-swap) - @leopham_it
 
 ## DAO Voting Program
 
-
+- [DAO Voting Program](https://github.com/HongThaiPham/talent-olympics-dao-voting) - @leopham_it
 
 ## Prediction Market & Blink for Memecoins
 
+- [Prediction Market & Blink for Memecoins](https://github.com/HongThaiPham/talent-olympics-prediction-merket-and-blink-for-memecoin) - @leopham_it
 
 
 ## Whitelist-gated Token Sale
 
 - [Whitelist-gated Token Sale](https://github.com/trankhacvy/talent-olympics/tree/main/whitelist-gated-token-sale) - Khac Vy
+- [Whitelist-gated Token Sale](https://github.com/HongThaiPham/talent-olympic-whitelist-gated-token-sale) - @leopham_it
 
 ## Two-sided Marketplace for Services
+
+- [2-sided marketplace model for services](https://github.com/HongThaiPham/talent-olympics-two-sided-marketplace-for-services) - @leopham_it
 
